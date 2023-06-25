@@ -1,3 +1,0 @@
-# Music player: https://www.clementine-player.org
-NAME=clementine           TYPE=PLAYER_AUDIO
-NAME=clementine-tagreader TYPE=PLAYER_AUDIO

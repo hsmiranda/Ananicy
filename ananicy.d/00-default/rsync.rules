@@ -1,1 +1,0 @@
-NAME=rsync TYPE=BG_CPUIO PGREP_ARGS='-wx'

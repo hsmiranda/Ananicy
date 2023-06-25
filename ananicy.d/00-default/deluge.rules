@@ -1,3 +1,0 @@
-# http://deluge-torrent.org
-NAME=deluged TYPE=BG_CPUIO
-NAME=deluge  TYPE=BG_CPUIO
